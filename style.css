@@ -153,12 +153,12 @@ body {
 
 @media screen  and (min-width: 1024px) {
   .banner {
-    height: 90vh;
+    height: 80vh;
     background-size: cover;
   }
 
   .banner_texto {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     margin-left: 5rem;
   }
 
